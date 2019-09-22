@@ -37,8 +37,8 @@ Remember to use the `.editorconfig` file for your editor.
 * Encoding should always be UTF-8.
 * Use 1 tab for indenting, not spaces.
 * Always spaces after `if`, `while`, `for`, etc.
-  * Good: `if (check) {`
-  * Bad: `if( check ){`
+  * ✅ Good: `if (check) {`
+  * ⛔ Bad: `if( check ){`
 * Function and method names are lowercase with underscore
   * ✅ Good: `function create_note() {`
   * ⛔ Bad: `function CreateNote() {`

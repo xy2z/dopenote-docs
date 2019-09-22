@@ -3,7 +3,7 @@
 * [Dopenote](README.md)
 * [Install](install/README.md)
   * [With Docker](install/with-docker.md)
-* [Contributing](contributing/README.md)
-  * [Components](contributing/components.md)
-  * [Setup dev environment](contributing/setup-dev-environment.md)
+* [Contributing](contributing.md)
+* [Components](components.md)
+* [Setup dev environment](setup-dev-environment.md)
 
