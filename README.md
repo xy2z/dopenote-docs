@@ -6,4 +6,5 @@ description: Self-hosted webapp for notes
 
 ## Project is still a work in progress.
 
-Expected release is summer 2019.
+Expected release is 2019.
+
