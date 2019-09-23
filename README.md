@@ -4,6 +4,8 @@ description: Self-hosted webapp for notes.
 
 # Dopenote
 
+![](.gitbook/assets/u18qhkn.jpg)
+
 ## Work in progress - Expected release is 2019.
 
 ### Purpose
