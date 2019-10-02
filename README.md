@@ -1,5 +1,5 @@
 ---
-description: Self-hosted webapp for notes.
+description: Self-hosted webapp for notes. Free and open source.
 ---
 
 # Dopenote
