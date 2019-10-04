@@ -2,10 +2,10 @@
 
 ### Requirements
 
-* PHP 7.3
+* PHP 7.3 \(_7.2 should work_\)
 * Composer
 * A mariadb/mysql server
-* `npm` - if you need to change javascript files
+* `npm` - to build javascript files
 
 ### Setup
 
@@ -18,6 +18,6 @@
 7. Run `php artisan migrate:fresh`
 8. Run `php artisan key:generate`
 9. Run `php artisan serve`
-10. See the site at [http://127.0.0.1:8000](http://127.0.0.1:8000/)
-11. If you need to change any .js files, run `npm run dev` or `npm run watch`
+10. Run `npm run dev` to build .js files \(or run `npm run watch`to watch for changes\)
+11. See the site at [http://127.0.0.1:8000](http://127.0.0.1:8000/)
 
