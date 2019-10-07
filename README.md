@@ -23,5 +23,6 @@ All your data is hosted and owned by you - and not a company.
 * Modern rich text editor
 * Responsive design and touch-friendly \(_in progress_\)
 * Color schemes \(_coming soon_\)
+* [Keybinds and shortcuts](keybinds-and-shortcuts.md)
 * Docker install - setup in seconds
 
