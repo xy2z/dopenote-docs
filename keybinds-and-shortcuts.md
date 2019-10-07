@@ -1,4 +1,8 @@
-# Key bindings and shortcuts
+---
+description: Quick actions in the editor makes you type faster.
+---
+
+# Keybinds and shortcuts
 
 ### Keybindings
 

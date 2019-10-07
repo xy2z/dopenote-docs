@@ -1,5 +1,5 @@
 ---
-description: Setup Dopenote on your serverq
+description: Setup Dopenote on your server
 ---
 
 # Install
