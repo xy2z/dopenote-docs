@@ -21,8 +21,13 @@ All your data is hosted and owned by you - and not a company.
 * Create multiple accounts
 * Notebooks \(folders\)
 * Modern rich text editor
-* Responsive design and touch-friendly \(_in progress_\)
-* Color schemes \(_coming soon_\)
+* Social login \(twitter, google, facebook\)
 * [Keybinds and shortcuts](keybinds-and-shortcuts.md)
 * Docker install - setup in seconds
+
+### Coming Soon
+
+* 2FA
+* Responsive design and touch-friendly
+* Color schemes
 

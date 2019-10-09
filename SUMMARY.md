@@ -8,3 +8,7 @@
 * [Components](components.md)
 * [Setup dev environment](setup-dev-environment.md)
 
+## Advanced
+
+* [Social Login](advanced/login-user-social-media.md)
+
