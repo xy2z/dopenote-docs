@@ -4,6 +4,8 @@ description: Quick actions in the editor makes you type faster.
 
 # Keybinds and shortcuts
 
+## Editor
+
 ### Keybindings
 
 * **CTRL+B** = Bold
@@ -11,6 +13,7 @@ description: Quick actions in the editor makes you type faster.
 * **CTRL+U** = Underline
 * **CTRL+Z** = Undo
 * **CTRL+Y** = Redo
+* **CTRL+Enter** = Line break
 
 ### Markdown shortcuts
 
