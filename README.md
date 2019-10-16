@@ -12,7 +12,7 @@ description: Self-hosted webapp for notes. Free and open source.
 
 The goal of this project is to provide a free, modern, fast and customizable app for all your notes, which over time can compete with the existing cloud apps.
 
-All your data is hosted and owned by you - and not a company.
+All data is hosted and owned by you - and not a company.
 
 ### Features
 
