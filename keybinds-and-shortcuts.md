@@ -25,7 +25,7 @@ description: Quick actions in the editor makes you type faster.
 * Bullet list: Start a line with `-` \(or `+`\)
 * Ordered list: Start a line with `1.`
 * Quote: Start a line with `>`
-* Code block: Start a line with ```````````
+* Code block: Start a line with ``````````` \(use CTRL+Enter to end\)
 * Code word:  ```code```
 * Horizontal Line: `---`
 
