@@ -21,3 +21,5 @@
 10. Run `npm run dev` to build .js files \(or run `npm run watch`to watch for changes\)
 11. See the site at [http://127.0.0.1:8000](http://127.0.0.1:8000/)
 
+You can create an admin user by running `php artisan db:seed`- then you can login with email: `admin@localhost` and password: `12341234`
+
