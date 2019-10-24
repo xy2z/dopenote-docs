@@ -22,6 +22,7 @@ All data is hosted and owned by you - and not a company.
 * Notebooks \(folders\)
 * Modern rich text editor
 * Social login \(twitter, google, facebook\)
+* Favoritess and trash bin
 * [Keybinds and shortcuts](keybinds-and-shortcuts.md)
 * Docker install - setup in seconds
 
