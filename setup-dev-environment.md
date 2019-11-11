@@ -1,3 +1,7 @@
+---
+description: Contribute to Dopenote
+---
+
 # Setup dev environment
 
 ### Requirements

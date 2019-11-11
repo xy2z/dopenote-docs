@@ -14,5 +14,7 @@ Not much is required, 10 GB disk space should be more than enough for personal u
 
 Internet Explorer is not supported. All other major browsers should work.
 
+## Docker
 
+Right now we only support **Docker** for installation, see [here](with-docker.md)
 

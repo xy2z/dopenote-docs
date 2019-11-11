@@ -1,7 +1,7 @@
 # Components
 
-Backend framework: [Laravel](https://laravel.com)  
-Frontend framework: [Vue.js](https://vuejs.org)
+Backend framework: [Laravel 6](https://laravel.com)  
+Frontend framework: [Vue.js 2](https://vuejs.org)
 
 #### Javascript
 

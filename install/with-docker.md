@@ -1,22 +1,22 @@
 ---
-description: The Dopenote Docker image is automatically updated every release.
+description: The Dopenote Docker image is automatically updated on every release.
 ---
 
-# With Docker
+# Install using Docker
 
 Docker is the only recommended way of setting up your own Dopenote instance.  
 If you still aren't familiar with Docker, now is the time.
 
 ### Basic example
 
-{% code-tabs %}
-{% code-tabs-item title="docker-compose.yml" %}
+{% tabs %}
+{% tab title="docker-compose.yml" %}
 ```yaml
 version: '3'
 
 services:
   web:
-    image: dopenote:1.0
+    image: dopenote/dopenote:1.0.0-alpha.1
     restart: always
     ports:
       - 82:80
@@ -36,8 +36,8 @@ services:
     volumes:
       - "./db:/var/lib/mysql"
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 Run `docker-compose up -d` and check `http://[YOUR_SERVER_IP]:82`
 

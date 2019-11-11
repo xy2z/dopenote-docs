@@ -1,5 +1,5 @@
 ---
-description: 'Code standard, etc.'
+description: 'Pull requests, issues, code style guide, etc.'
 ---
 
 # Contributing
