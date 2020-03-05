@@ -6,7 +6,7 @@ description: Self-hosted webapp for notes. Free and open source.
 
 ![](.gitbook/assets/dopenote.png)
 
-## Work in progress - Expected release is 2019.
+## Work in progress - Expected release is Spring 2020.
 
 ### Purpose
 
