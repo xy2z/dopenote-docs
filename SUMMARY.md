@@ -7,9 +7,9 @@
 * [Contributing](contributing.md)
 * [Components](components.md)
 * [Setup dev environment](setup-dev-environment.md)
+* [FAQ](faq.md)
 
 ## Advanced
 
 * [Social Login](advanced/login-user-social-media.md)
-* [FAQ](faq.md)
 
