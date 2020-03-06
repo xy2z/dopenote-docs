@@ -11,4 +11,5 @@
 ## Advanced
 
 * [Social Login](advanced/login-user-social-media.md)
+* [FAQ](faq.md)
 
