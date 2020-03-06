@@ -6,7 +6,7 @@ description: Contribute to Dopenote
 
 ### Requirements
 
-* PHP 7.3 \(_7.2 should work_\)
+* PHP 7.3 \(7.2 also work, but 7.4 doesn't atm. - march 2020\)\)
 * Composer
 * A mariadb/mysql server
 * `npm` - to build javascript files
