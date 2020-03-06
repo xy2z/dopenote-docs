@@ -21,7 +21,7 @@ Tell your friends and tweet about it.
 
 You can manually take a mysqldump of the database, or you can use the "Export" button in "User settings" to export all your notes as html files.
 
-
-
+{% hint style="info" %}
 Didn't find what you where looking for? Ask on [Github](https://github.com/xy2z/dopenote/issues) or [Gitter](https://gitter.im/dopenote/community).
+{% endhint %}
 
