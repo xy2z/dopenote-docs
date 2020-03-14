@@ -17,7 +17,7 @@ Add this to your `docker-compose.yml` file, below the `DB_PASSWORD` environment 
 ```text
     environment:
       - MAIL_DRIVER=smtp
-      - MAIL_HOST=123.456.789.10
+      - MAIL_HOST=12.345.67.89
       - MAIL_FROM_ADDRESS=noreply@example.com
       - MAIL_PORT=25
       - MAIL_ENCRYPTION=null
